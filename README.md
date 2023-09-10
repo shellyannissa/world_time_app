@@ -4,9 +4,11 @@ This Application offers a comprehensive world clock experience, showcasing time 
 # UI
 
 ## Home Page ( day and night themed)
-<img width="336" alt="Screenshot 2023-09-10 at 3 39 18 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/1511fb3d-0ee3-409b-ab78-d70fd0c02c59">
-<img width="336" alt="Screenshot 2023-09-10 at 3 27 09 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/ea1f8410-03a0-4652-b7d5-f3fd98569e7f">
+<img width="336" alt="Screenshot 2023-09-10 at 3 27 09 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/349acc0c-3059-4281-857d-dc78d0b268b8">
+<img width="336" alt="Screenshot 2023-09-10 at 3 39 18 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/28704742-36d0-42f5-9ac8-886f663aa4a4">
+
 
 ## Loading and Location Screen
-<img width="336" alt="Screenshot 2023-09-10 at 3 31 24 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/047d6763-ecd8-41cb-885f-b2066ef2b5be">
-<img width="336" alt="Screenshot 2023-09-10 at 3 28 15 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/3ffbc759-c5ba-476e-8cfb-6af9e880c4c0">
+
+<img width="336" alt="Screenshot 2023-09-10 at 3 28 15 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/1a6e55fa-5611-4575-8b62-e17a764085e1">
+<img width="336" alt="Screenshot 2023-09-10 at 3 31 24 PM" src="https://github.com/shellyannissa/world_time_app/assets/118563935/47763562-1e6a-45c2-99b0-caca63279741">
