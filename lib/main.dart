@@ -4,9 +4,12 @@ import 'package:world_time_app/pages/home.dart';
 import 'package:world_time_app/pages/loading.dart';
 
 void main() {
-  runApp(MaterialApp(initialRoute: '/home', routes: {
-    '/': (context) => LoadingScreen(),
-    '/home': (context) => Home(),
-    '/location': (context) => ChooseLocation()
-  }));
+  runApp(MaterialApp(
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/',
+      routes: {
+        '/': (context) => LoadingScreen(),
+        '/home': (context) => Home(),
+        '/location': (context) => ChooseLocation()
+      }));
 }
